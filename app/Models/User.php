@@ -2,15 +2,20 @@
 
 namespace App\Models;
 
-// use Illuminate\Contracts\Auth\MustVerifyEmail;
 use Illuminate\Database\Eloquent\Factories\HasFactory;
 use Illuminate\Foundation\Auth\User as Authenticatable;
 use Illuminate\Notifications\Notifiable;
+use Illuminate\Contracts\Auth\MustVerifyEmail;
+use Laravel\Sanctum\HasApiTokens;
+use Spatie\Permission\Traits\HasRoles;
+use Illuminate\Database\Eloquent\SoftDeletes;
 
-class User extends Authenticatable
+
+
+class User extends Authenticatable implements MustVerifyEmail
 {
     /** @use HasFactory<\Database\Factories\UserFactory> */
-    use HasFactory, Notifiable;
+    use HasRoles, HasApiTokens, HasFactory, Notifiable, SoftDeletes;
 
     /**
      * The attributes that are mass assignable.
@@ -21,6 +26,10 @@ class User extends Authenticatable
         'name',
         'email',
         'password',
+        'school_id',
+        'phone',
+        'email_verification_token',
+        'active',
     ];
 
     /**
@@ -45,4 +54,20 @@ class User extends Authenticatable
             'password' => 'hashed',
         ];
     }
+    
+    public function school()
+    {
+        return $this->belongsTo(School::class);
+    }
+    
+    public function student()
+    {
+        return $this->hasOne(Student::class);
+    }
+    
+    public function teacher()
+    {
+        return $this->hasOne(Teacher::class);
+    }
+
 }

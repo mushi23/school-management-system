@@ -1,0 +1,10 @@
+id,name,email,email_verified_at,password,remember_token,created_at,updated_at,school_id,active,phone,email_verification_token,deleted_at
+1,"mamuch dak",mamuchsharif@gmail.com,"2025-06-09 09:26:46",$2y$12$oG07paRnRI3qwjrbusngienn2VEm.m0gZI60NeEqVb.xSB3GBgZG6,,"2025-06-09 09:26:25","2025-06-09 09:26:46",,1,,,
+2,"ALPHA JUNIOR Admin",alphajunior@gmail.com,,$2y$12$GFbCgrKr1OANDjAcKEDTkOWfRwT9HloE6JdJQhmQIOG1sxIIWwAIW,,"2025-06-09 09:32:54","2025-06-09 09:32:54",,1,,,
+3,"CHADWICK ACADEMY Admin",chadwick@gmail.com,,$2y$12$8gE47ilwWpEPX4NnjrrwFeIjda5YXJt9g4CZeIdlxfQHdA1er6M4W,,"2025-06-09 10:08:08","2025-06-09 10:08:08",,1,,,
+4,"CHRESTER JUNIOR SCHOOL Admin",chrester@gmail.com,"2025-06-09 15:14:54",$2y$12$C7JSS8xjDAeZN8sGaAr0DeYTj9ruoKdlFnW9mc0JmOOJZHZQXvE8G,,"2025-06-09 10:51:39","2025-06-09 15:14:54",,1,,,
+7,"DENMARS PREPARATOY SCHOOL Admin",denmars@gmail.com,"2025-06-09 15:34:44",$2y$12$QVKNDxedWuH3.NyrT5HXROYgrXmo/XgjyWFW3/pUCV.6A/zZjKgwa,,"2025-06-09 15:34:03","2025-06-12 09:44:36",15,1,0717705967,4604fbe4-3481-4e6c-995a-eff7f5b23852,
+8,"FAIRWAYS REITZ ACADEMTY Admin",fairways@gmail.com,"2025-06-12 09:42:37",$2y$12$jSq.dpAggFRu5amAPJOVNOmgsdCukfhXukKMCB4L.TmOFE5bbZHDK,,"2025-06-09 17:24:12","2025-06-20 11:38:29",16,1,0716703967,3d96dea4-ea78-4a4e-8c5d-03c063834995,
+9,"FAITH STAR SCHOOL Admin",faithstar@gmail.com,"2025-06-10 20:52:47",$2y$12$fDMwyu7I/CLchze.yQMC0elYvfkd3HXNJ3bhcQl1W7Xd70jlNZi3W,,"2025-06-09 17:28:45","2025-06-16 10:57:49",17,1,0716702967,9a0f1e4b-9e59-4494-a54b-f8942db09fe6,
+10,"mamuch dak",mamuchsharif22@gmail.com,"2025-06-09 17:56:33",$2y$12$9UcoLe0lpMgffx0uakSL7O6/0yoiljFtIchuANdoLzqgL5b7OaKfW,,"2025-06-09 17:56:04","2025-06-09 17:56:33",,1,,,
+11,"mamuch dak",mamuchsharif33@gmail.com,,$2y$12$w0N7ZB7NGAqj.yRO4HQNLeJ1R.b3cfP4d01dKi6PX5dJwq4kEfStq,,"2025-06-09 18:00:00","2025-06-09 18:00:00",,1,,,

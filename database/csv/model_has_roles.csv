@@ -1,0 +1,12 @@
+role_id,model_type,model_id
+1,App\Models\User,1
+7,App\Models\User,2
+7,App\Models\User,3
+7,App\Models\User,4
+7,App\Models\User,5
+7,App\Models\User,6
+7,App\Models\User,7
+7,App\Models\User,8
+7,App\Models\User,9
+3,App\Models\User,10
+3,App\Models\User,11

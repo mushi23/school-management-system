@@ -1,0 +1,210 @@
+[
+  {
+    "stage": "Early Years",
+    "level": "PP1",
+    "name": "Pre-Primary 1",
+    "courses": [
+      "Language Activities",
+      "Mathematical Activities",
+      "Environmental Activities",
+      "Creative Activities",
+      "Religious Activities"
+    ]
+  },
+  {
+    "stage": "Early Years",
+    "level": "PP2",
+    "name": "Pre-Primary 2",
+    "courses": [
+      "Language Activities",
+      "Mathematical Activities",
+      "Environmental Activities",
+      "Creative Activities",
+      "Religious Activities"
+    ]
+  },
+  {
+    "stage": "Lower Primary",
+    "level": "Grade 1",
+    "courses": [
+      "English",
+      "Kiswahili",
+      "Indigenous Language",
+      "Mathematics",
+      "Environmental Activities",
+      "CRE/IRE",
+      "Art & Craft",
+      "Music",
+      "PHE"
+    ]
+  },
+  {
+    "stage": "Lower Primary",
+    "level": "Grade 2",
+    "courses": [
+      "English",
+      "Kiswahili",
+      "Indigenous Language",
+      "Mathematics",
+      "Environmental Activities",
+      "CRE/IRE",
+      "Art & Craft",
+      "Music",
+      "PHE"
+    ]
+  },
+  {
+    "stage": "Lower Primary",
+    "level": "Grade 3",
+    "courses": [
+      "English",
+      "Kiswahili",
+      "Indigenous Language",
+      "Mathematics",
+      "Environmental Activities",
+      "CRE/IRE",
+      "Art & Craft",
+      "Music",
+      "PHE"
+    ]
+  },
+  {
+    "stage": "Lower Primary",
+    "level": "Grade 4",
+    "courses": [
+      "English",
+      "Kiswahili",
+      "Mathematics",
+      "Science & Tech",
+      "Social Studies",
+      "CRE/IRE",
+      "Agriculture",
+      "Home Science",
+      "PHE",
+      "Art & Craft",
+      "Music",
+      "Computer Studies"
+    ]
+  },
+  {
+    "stage": "Lower Primary",
+    "level": "Grade 5",
+    "courses": [
+      "English",
+      "Kiswahili",
+      "Mathematics",
+      "Science & Tech",
+      "Social Studies",
+      "CRE/IRE",
+      "Agriculture",
+      "Home Science",
+      "PHE",
+      "Art & Craft",
+      "Music",
+      "Computer Studies"
+    ]
+  },
+  {
+    "stage": "Lower Primary",
+    "level": "Grade 6",
+    "courses": [
+      "English",
+      "Kiswahili",
+      "Mathematics",
+      "Science & Tech",
+      "Social Studies",
+      "CRE/IRE",
+      "Agriculture",
+      "Home Science",
+      "PHE",
+      "Art & Craft",
+      "Music",
+      "Computer Studies"
+    ]
+  },
+  {
+    "stage": "Junior School",
+    "level": "Grade 7",
+    "courses": [
+      "English",
+      "Kiswahili",
+      "Mathematics",
+      "Integrated Science",
+      "Health Education",
+      "Pre-Technical Studies",
+      "Social Studies",
+      "CRE/IRE",
+      "Life Skills",
+      "PHE",
+      "Business Studies",
+      "Computer Science",
+      "Visual Arts (optional)",
+      "Performing Arts (optional)",
+      "Foreign Language (optional)"
+    ]
+  },
+  {
+    "stage": "Junior School",
+    "level": "Grade 8",
+    "courses": [
+      "English",
+      "Kiswahili",
+      "Mathematics",
+      "Integrated Science",
+      "Health Education",
+      "Pre-Technical Studies",
+      "Social Studies",
+      "CRE/IRE",
+      "Life Skills",
+      "PHE",
+      "Business Studies",
+      "Computer Science",
+      "Visual Arts (optional)",
+      "Performing Arts (optional)",
+      "Foreign Language (optional)"
+    ]
+  },
+  {
+    "stage": "Junior School",
+    "level": "Grade 9",
+    "courses": [
+      "English",
+      "Kiswahili",
+      "Mathematics",
+      "Integrated Science",
+      "Health Education",
+      "Pre-Technical Studies",
+      "Social Studies",
+      "CRE/IRE",
+      "Life Skills",
+      "PHE",
+      "Business Studies",
+      "Computer Science",
+      "Visual Arts (optional)",
+      "Performing Arts (optional)",
+      "Foreign Language (optional)"
+    ]
+  },
+  {
+    "stage": "Senior School",
+    "level": "Grade 10",
+    "courses": [
+      "Core subjects + electives (based on pathway: STEM, Arts, Technical)"
+    ]
+  },
+  {
+    "stage": "Senior School",
+    "level": "Grade 11",
+    "courses": [
+      "Core subjects + electives (based on pathway)"
+    ]
+  },
+  {
+    "stage": "Senior School",
+    "level": "Grade 12",
+    "courses": [
+      "Core subjects + electives (based on pathway)"
+    ]
+  }
+]
+

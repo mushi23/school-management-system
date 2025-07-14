@@ -2,6 +2,8 @@
 
 return [
 
+    'default_guard' => 'web',
+
     /*
     |--------------------------------------------------------------------------
     | Authentication Defaults
@@ -39,6 +41,11 @@ return [
         'web' => [
             'driver' => 'session',
             'provider' => 'users',
+        ],
+        'api' => [
+            'driver' => 'sanctum',
+            'provider' => 'users',
+            'hash' => false,
         ],
     ],
 

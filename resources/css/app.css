@@ -1,11 +1,28 @@
-@import 'tailwindcss';
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
 
-@source '../../vendor/laravel/framework/src/Illuminate/Pagination/resources/views/*.blade.php';
-@source '../../storage/framework/views/*.php';
-@source '../**/*.blade.php';
-@source '../**/*.js';
+/* Success Toast */
+.Vue-Toastification__toast--success {
+  @apply bg-green-600 text-white;
+}
 
-@theme {
-    --font-sans: 'Instrument Sans', ui-sans-serif, system-ui, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji',
-        'Segoe UI Symbol', 'Noto Color Emoji';
+/* Error Toast */
+.Vue-Toastification__toast--error {
+  @apply bg-red-600 text-white;
+}
+
+/* Optional: Info Toast */
+.Vue-Toastification__toast--info {
+  @apply bg-blue-600 text-white;
+}
+
+/* Optional: Warning Toast */
+.Vue-Toastification__toast--warning {
+  @apply bg-yellow-500 text-black;
+}
+
+/* Shared style */
+.Vue-Toastification__toast {
+  @apply rounded shadow-lg;
 }
